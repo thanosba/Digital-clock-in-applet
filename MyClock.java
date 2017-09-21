@@ -1,4 +1,3 @@
-
 package myclock;
 import java.awt.*;
 import javax.swing.*;
